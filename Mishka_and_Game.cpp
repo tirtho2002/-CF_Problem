@@ -32,7 +32,7 @@ int main() {
         cout<<"Chris";
     }
     else{
-        cout<<"Mishka";
+        cout<<"Friendship is magic!^^";
     }
     return 0;
 }
