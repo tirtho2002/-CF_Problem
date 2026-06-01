@@ -1,28 +1,42 @@
 #include <iostream>
 using namespace std;
+#include <set>
 
-int main() {
+int main()
+{
     int t;
     cin >> t;
 
-    while (t--) {
-        int n;
+    while (t--)
+    {
+        int n, temp;
         cin >> n;
 
-        int x;
-        bool allOne = true;
+        
+        set<int> arr;
 
-        for (int i = 0; i < n; i++) {
-            cin >> x;
+        for (int i = 0; i < n; i++)
+        {
 
-            if (x != 1)
-                allOne = false;
+            cin >> temp;
+            arr.insert(temp);
         }
 
-        if (n == 1 || allOne)
-            cout << "NO\n";
-        else
-            cout << "YES\n";
+
+        if(arr.size()>1){
+            temp=(n/2);
+            if(arr.size()<=temp){
+                cout<<"NO"<<endl;
+            }
+            else{
+                cout<<"YES"<<endl;
+            }
+
+        }
+        else{
+            cout<<"NO"<<endl;
+        }
+        
     }
 
     return 0;
