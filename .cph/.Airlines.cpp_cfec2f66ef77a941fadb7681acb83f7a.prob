@@ -1,0 +1,1 @@
+{"name":"Local: Airlines","url":"d:\\codes\\cf_codes\\cpp\\Airlines.cpp","tests":[{"id":1780249804263,"input":"3\n4 600\n3 523\n8 245","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\cf_codes\\cpp\\Airlines.cpp","group":"local","local":true}
