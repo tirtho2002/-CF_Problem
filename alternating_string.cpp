@@ -19,7 +19,6 @@ int main()
         }
         if(c>2){
             cout<<"NO"<<endl;
-
         }
         else{
             cout<<"YES"<<endl;
