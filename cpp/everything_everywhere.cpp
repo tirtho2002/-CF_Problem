@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
+
 using namespace std;
 
 int main()
@@ -8,28 +11,25 @@ int main()
 
     while (t--)
     {
-
-        int n;
+        int count = 0, n;
         cin >> n;
         int arr[n];
-        bool flag = true;
+
         for (int i = 0; i < n; i++)
         {
+
             cin >> arr[i];
-            if (i >= 1 && (arr[i - 1] > arr[i]))
+
+            if (i >= 1)
             {
-                flag = false;
+
+                if (__gcd(arr[i], arr[i - 1]) == abs(arr[i] - arr[i - 1]))
+                {
+                    count++;
+                }
             }
         }
-
-        if (flag)
-        {
-            cout << (n - 1) << endl;
-        }
-        else
-        {
-            cout << 0 << endl;
-        }
+        cout << count << endl;
     }
 
     return 0;
