@@ -10,7 +10,5 @@ int main() {
         if(n>x) cout<<"NO"<<endl;
         else cout<<"YES"<<endl;
     }
-
-
     return 0;
 }
