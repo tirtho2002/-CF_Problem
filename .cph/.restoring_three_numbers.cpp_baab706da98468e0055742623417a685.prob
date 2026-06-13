@@ -1,0 +1,1 @@
+{"name":"Local: restoring_three_numbers","url":"d:\\codes\\cf_codes\\restoring_three_numbers.cpp","tests":[{"id":1781372762280,"input":"40 40 40 60\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\cf_codes\\restoring_three_numbers.cpp","group":"local","local":true}
