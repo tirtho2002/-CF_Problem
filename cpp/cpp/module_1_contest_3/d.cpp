@@ -12,6 +12,8 @@ int main() {
 
         int i = 1, count = 0;
 
+
+        
         while (true) {
 
             if (i % 3 != 0 && i % 10 != 3) {
