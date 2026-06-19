@@ -13,7 +13,6 @@ int main() {
    if(a>1){
     if(a%2==0){
         cout<<"YES"<<endl;
-
     }
     else{
         cout<<"NO"<<endl;
@@ -22,9 +21,6 @@ int main() {
    else{
     cout<<"YES"<<endl;
    }
-
-
   }
-
     return 0;
 }
