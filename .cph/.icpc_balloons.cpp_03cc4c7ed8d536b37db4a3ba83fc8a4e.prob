@@ -1,0 +1,1 @@
+{"name":"Local: icpc_balloons","url":"d:\\codes\\cf_codes\\icpc_balloons.cpp","tests":[{"id":1781977624934,"input":"6\n3\nABA\n1\nA\n3\nORZ\n5\nBAAAA\n4\nBKPT\n10\nCODEFORCES\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\cf_codes\\icpc_balloons.cpp","group":"local","local":true}
