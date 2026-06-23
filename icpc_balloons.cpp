@@ -18,6 +18,10 @@ int main() {
         }
         cout<<(s.size()*2)+(size-s.size())<<endl;
 
+
+
+
+        
     }
 
 
