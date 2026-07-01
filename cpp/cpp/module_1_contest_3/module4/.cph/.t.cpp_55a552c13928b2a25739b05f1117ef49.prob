@@ -1,0 +1,1 @@
+{"name":"Local: t","url":"d:\\codes\\cf_codes\\cpp\\cpp\\module_1_contest_3\\module4\\t.cpp","tests":[{"id":1782910239375,"input":"4\n3\n1 2 3\n2\n20 23\n10\n6 10 4 1 5 9 8 6 5 1\n1\n1000000000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\cf_codes\\cpp\\cpp\\module_1_contest_3\\module4\\t.cpp","group":"local","local":true}
