@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\codes\\cf_codes\\cpp\\cpp\\module_1_contest_3\\module6\\a.cpp","tests":[{"id":1783532470565,"input":"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\cf_codes\\cpp\\cpp\\module_1_contest_3\\module6\\a.cpp","group":"local","local":true}
